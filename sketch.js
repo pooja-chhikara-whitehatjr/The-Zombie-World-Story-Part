@@ -19,14 +19,14 @@ var Instruction;
 
 function preload(){
 
-NewYorkImg=loadImage("Bg/New York.jpg");
-HouseImage=loadImage("Bg/House.jpg");
-House2Image=loadImage("Bg/House2.jpg");
-GoalImg=loadImage("Bg/Goal.jpg");
-officeImg=loadImage("Bg/Office.jpg");
-peopleImg=loadImage("Bg/People.png")
-ZombieAttackImg=loadImage("Bg/Zombie Attack.jpg");
-InstrucImg=loadImage("Bg/instruc.jpg");
+NewYorkImg=loadImage("New York.jpg");
+HouseImage=loadImage("House.jpg");
+House2Image=loadImage("House2.jpg");
+GoalImg=loadImage("Goal.jpg");
+officeImg=loadImage("Office.jpg");
+peopleImg=loadImage("People.png")
+ZombieAttackImg=loadImage("Zombie Attack.jpg");
+InstrucImg=loadImage("instruc.jpg");
 
 
 
